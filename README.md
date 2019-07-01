@@ -21,4 +21,13 @@ python main.py
 * Provide the target username and a password list. You can use the password list `passlist.txt` that is included in the repo
 
 Video <br>
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/Hd_kQVnajxk/1.jpg)](https://youtu.be/Hd_kQVnajxk "Video Title")
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/Hd_kQVnajxk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC7N67-Q67WAxMViUrHWJDdnkSM9A)](https://youtu.be/Hd_kQVnajxk "Video Title")
+
+## Command-line arguments
+-h, --help            show this help message and exit<br>
+-u USERNAME, --username=USERNAME Choose the username<br>
+--usernamesel=USERNAMESEL Choose the username selector<br>
+--passsel=PASSSEL     Choose the password selector<br>
+--loginsel=LOGINSEL   Choose the login button selector<br>
+--passlist=PASSLIST   Enter the password list directory<br>
+--website=WEBSITE     choose a website<br>
